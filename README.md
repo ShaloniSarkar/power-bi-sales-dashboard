@@ -19,4 +19,5 @@ This dashboard analyzes sales, quantity sold, and store trends.
 
 ## Files
 Powerbi 1st project.pbix
+
 Apocolypse Food Prep.xlsx
