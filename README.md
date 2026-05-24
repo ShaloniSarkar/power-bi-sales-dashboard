@@ -18,5 +18,5 @@ This dashboard analyzes sales, quantity sold, and store trends.
 ![Dashboard](./PBI%20Dashboard.png)
 
 ## Files
-- dashboard.pbix
-- sales_data.xlsx
+Powerbi 1st project.pbix
+Apocolypse Food Prep.xlsx
