@@ -15,7 +15,7 @@ This dashboard analyzes sales, quantity sold, and store trends.
 - Visual Dashboard
 
 ## Dashboard Preview
-![Dashboard](PBI Dashboard.png)
+![Dashboard](./PBI%20Dashboard.png)
 
 ## Files
 - dashboard.pbix
